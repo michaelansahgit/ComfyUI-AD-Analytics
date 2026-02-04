@@ -1,4 +1,4 @@
-\# 🚗 ComfyUI AD Analytics
+ComfyUI AD Analytics
 
 
 
@@ -6,7 +6,7 @@ A specialized tool for **Autonomous Driving (AD)** Data curation. This node allo
 
 
 
-\## Features
+Features
 
 **AD Data Collector:** Saves Image + Embedding pairs (.pkl) systematically.
 
@@ -14,27 +14,25 @@ A specialized tool for **Autonomous Driving (AD)** Data curation. This node allo
 
 
 
-\## Installation
+Installation
 
 1\. Clone this repo into `ComfyUI/custom\_nodes`:
 
-&nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/michaelansahgit/ComfyUI-AD-Analytics.git](https://github.com/michaelansahgit/ComfyUI-AD-Analytics.git)
+  git clone https://github.com/michaelansahgit/ComfyUI-AD-Analytics.git
 
-&nbsp;   ```
+
 
 2\. Install dependencies:
 
-&nbsp;   ```bash
 
-&nbsp;   pip install -r requirements.txt
-
-&nbsp;   ```
+   pip install -r requirements.txt
 
 
 
-\## Usage
+
+
+Usage
 
 1\. **Collect Data:** Connect your VAE/CLIP output to the `AD Data Collector` node.
 
