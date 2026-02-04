@@ -10,7 +10,7 @@ Features
 
 **AD Data Collector:** Saves Image + Embedding pairs (.pkl) systematically.
 
-**AD Latent Explorer:** visualizes dataset distribution using UMAP to find edge cases and bias.
+**AD Latent Explorer:** visualizes dataset distribution using UMAP to find edge cases and bias. <br>
 
 
 
@@ -19,7 +19,7 @@ Installation
 1\. Clone this repo into `ComfyUI/custom\_nodes`:
 
 
-  git clone https://github.com/michaelansahgit/ComfyUI-AD-Analytics.git
+  git clone https://github.com/michaelansahgit/ComfyUI-AD-Analytics.git <br>
 
 
 
