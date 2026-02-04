@@ -16,7 +16,7 @@ Features
 
 Installation
 
-1\. Clone this repo into `ComfyUI/custom\_nodes`:
+1\. Clone this repo into `ComfyUI/custom_nodes`:
 
 
   git clone https://github.com/michaelansahgit/ComfyUI-AD-Analytics.git<br>
