@@ -1,0 +1,5 @@
+umap-learn
+matplotlib
+numpy
+torch
+Pillow
