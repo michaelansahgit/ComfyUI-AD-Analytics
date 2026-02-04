@@ -20,7 +20,7 @@ A specialized tool for \*\*Autonomous Driving (AD)\*\* data curation. This node 
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/YOUR\_USERNAME/ComfyUI-AD-Analytics.git](https://github.com/YOUR\_USERNAME/ComfyUI-AD-Analytics.git)
+&nbsp;   git clone \[https://github.com/michaelansahgit/ComfyUI-AD-Analytics.git](https://github.com/michaelansahgit/ComfyUI-AD-Analytics.git)
 
 &nbsp;   ```
 
