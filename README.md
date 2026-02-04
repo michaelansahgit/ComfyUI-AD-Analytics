@@ -2,15 +2,15 @@
 
 
 
-A specialized tool for \*\*Autonomous Driving (AD)\*\* data curation. This node allows engineers to visualize the latent distribution of their driving datasets (NuScenes, Waymo, Synthetic) directly within ComfyUI.
+A specialized tool for **Autonomous Driving (AD)** Data curation. This node allows engineers to visualize the latent distribution of their driving datasets (NuScenes, Waymo, Synthetic) directly within ComfyUI.
 
 
 
 \## Features
 
-\* \*\*AD Data Collector:\*\* Saves Image + Embedding pairs (.pkl) systematically.
+**AD Data Collector:** Saves Image + Embedding pairs (.pkl) systematically.
 
-\* \*\*AD Latent Explorer:\*\* visualizes dataset distribution using UMAP to find edge cases and bias.
+**AD Latent Explorer:** visualizes dataset distribution using UMAP to find edge cases and bias.
 
 
 
@@ -36,7 +36,7 @@ A specialized tool for \*\*Autonomous Driving (AD)\*\* data curation. This node 
 
 \## Usage
 
-1\. \*\*Collect Data:\*\* Connect your VAE/CLIP output to the `AD Data Collector` node.
+1\. **Collect Data:** Connect your VAE/CLIP output to the `AD Data Collector` node.
 
-2\. \*\*Visualize:\*\* Run the `AD Latent Explorer` pointing to the same folder.
+2\. **Visualize:** Run the `AD Latent Explorer` pointing to the same folder.
 
